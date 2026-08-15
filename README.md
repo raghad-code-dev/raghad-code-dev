@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7050E5&width=435&lines=IT+Student+%40+IUG;Software+Development+Enthusiast" alt="Typing SVG" />
 </p>
-![Uploading image.png…]()
+<p align="center">
+  <img src="image.png" width="100%" />
+</p>
 
 <h1 align="center">Hi there, I'm Raghad 👋 ✨</h1>
 
