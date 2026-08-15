@@ -1,8 +1,16 @@
-# Hi there, I'm Raghad 👋 ✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raghad-code-dev/raghad-code-dev/main/welcome_banner.png" alt="Welcome Banner" width="100%" />
+</p>
 
-🎓 **Information Technology Student** at the Islamic University of Gaza  
-💻 Passionate about **Software Development** & Object-Oriented Programming  
-📚 Enthusiastic about continuous learning, logical design, and problem-solving
+<h1 align="center">Hi there, I'm Raghad 👋 ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7050E5&width=435&lines=IT+Student+%40+IUG;Software+Development+Enthusiast;Java+%26+OOP+Lover" alt="Typing SVG" />
+</p>
+
+- 🎓 **Information Technology Student** at the Islamic University of Gaza  
+- 💻 Passionate about **Software Development** & Object-Oriented Programming  
+- 📚 Enthusiastic about continuous learning, logical design, and problem-solving
 
 ---
 
@@ -23,9 +31,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Visitors
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghad-code-dev&show_icons=true&theme=radical&hide_border=true" alt="Raghad's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghad-code-dev&show_icons=true&theme=dracula&hide_border=true" alt="Raghad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raghad-code-dev&color=7050e5&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
