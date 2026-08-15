@@ -30,17 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats & Visitors
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghad-code-dev&theme=dracula&hide_border=true" alt="Raghad's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghad-code-dev&color=7050e5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> ✨
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=raghad-code-dev&show_icons=true&theme=tokyonight&hide_border=true&height=180" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghad-code-dev&theme=tokyonight" height="165" alt="GitHub Details" />
 </p>
